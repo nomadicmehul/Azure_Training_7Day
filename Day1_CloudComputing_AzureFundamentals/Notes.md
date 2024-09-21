@@ -42,6 +42,8 @@ Azure divides its global infrastructure into regions and Availability Zones (AZs
 - **Subscriptions**: Billing containers grouping multiple resource groups.
 - **Management Groups**: Organizational hierarchy for managing multiple subscriptions.
 
+![image](https://github.com/user-attachments/assets/29b266a5-f9cd-487e-89c7-e84db19cc892)
+
 ### 2.3 High Availability, Scalability, and Elasticity
 - **High Availability**: Ensuring the application remains operational during system failures (achieved via AZs, Load Balancers).
 - **Scalability**: Ability to increase or decrease resources as per demand (VM Scale Sets, Autoscaling).
