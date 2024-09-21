@@ -1,2 +1,62 @@
-# Azure_Training_7Day
-7-day comprehensive Azure training, covering cloud computing basics, Azure services, VMs, networking, Git, containers, DevOps, and security.
+# Azure 7-Day Training Guide
+
+Welcome to the **Azure 7-Day Training Guide**! This repository contains comprehensive notes, diagrams, and examples for each day of the training, covering the key concepts of Azure cloud computing, virtual machines, networking, storage, containers, DevOps, security, backup, and monitoring.
+
+**Training Vendor:** [Enlink Managed Services Pvt Ltd](https://enlinkit.com/)
+
+**Client Name:** [MetLife, Jaipur](https://www.metlife.com/)
+
+Each day has its own folder with detailed notes, demos, and resources.
+
+---
+
+## Table of Contents
+
+- [Day 1: Cloud Computing Basics & Azure Overview](./Day1_CloudComputing_AzureOverview/Notes.md)
+- [Day 2: Virtual Machines in Azure](./Day2_VirtualMachines/Notes.md)
+- [Day 3: Networking in Azure](./Day3_Networking/Notes.md)
+- [Day 4: Load Balancing, Storage & App Services](./Day4_LoadBalancing_Storage/Notes.md)
+- [Day 5: Git & Containers](./Day5_Git_Containers/Notes.md)
+- [Day 6: Azure DevOps Pipelines & Jenkins](./Day6_DevOps_Jenkins/Notes.md)
+- [Day 7: Cloud Security, Backup, and Monitoring](./Day7_CloudSecurity_Backup_Monitoring/Notes.md)
+
+---
+
+## Overview of the Training
+
+This training guide is designed to help you get hands-on experience with various Azure services and tools. It covers the following major areas:
+
+- **Day 1**: Overview of Cloud Computing, Azure Fundamentals
+- **Day 2**: Virtual Machine Planning, Deployment, and Scaling in Azure
+- **Day 3**: Virtual Networking and Advanced Networking Concepts
+- **Day 4**: Load Balancing, Storage Solutions, and Azure App Services
+- **Day 5**: Introduction to Git, Docker Containers, and Kubernetes in Azure
+- **Day 6**: CI/CD Pipelines with Azure DevOps and Jenkins Automation
+- **Day 7**: Azure Cloud Security, Backup Services, Monitoring, and Cost Optimization
+
+---
+
+## How to Use This Repository
+
+1. Navigate to each day’s folder to find the corresponding notes and reference materials.
+2. Each day’s `Notes.md` file includes:
+   - Detailed explanations of the concepts covered.
+   - Architecture diagrams, where relevant.
+   - Hands-on demos and practical exercises.
+   - External references for further study.
+
+---
+
+## Prerequisites
+
+- Basic knowledge of cloud computing.
+- Access to an **Azure account**.
+- Familiarity with **command-line tools** and **Git**.
+
+---
+
+## Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/nomadicmehul/Azure_Training_7
