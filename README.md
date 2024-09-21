@@ -12,7 +12,7 @@ Each day has its own folder with detailed notes, demos, and resources.
 
 ## Table of Contents
 
-- [Day 1: Cloud Computing Basics & Azure Overview](./Day1_CloudComputing_AzureOverview)
+- [Day 1: Cloud Computing Basics & Azure Overview](./Day1_CloudComputing_AzureFundamentals)
 - [Day 2: Virtual Machines in Azure](./Day2_VirtualMachines)
 - [Day 3: Networking in Azure](./Day3_Networking/)
 - [Day 4: Load Balancing, Storage & App Services](./Day4_LoadBalancing_Storage/)
