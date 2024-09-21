@@ -32,7 +32,10 @@ Understanding the pricing models helps optimize costs:
 ### 2.1 Azure Regions & Availability Zones
 Azure divides its global infrastructure into regions and Availability Zones (AZs). Each region is a collection of datacenters, while AZs are physically separated locations within a region to improve fault tolerance.
 
-#### Diagram: Azure Regions & Availability Zones (Add Image/Diagram Here)
+#### Diagram: Azure Regions & Availability Zones 
+
+![image](https://github.com/user-attachments/assets/b79b4747-8891-43a9-9cef-b97b1c2db873)
+
 
 ### 2.2 Resource Groups, Subscriptions, and Management Groups
 - **Resource Groups**: Logical containers for Azure resources.
