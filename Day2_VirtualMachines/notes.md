@@ -14,7 +14,7 @@
   
   VM Deployment Planning
 
-- **Further Reading**: [VM Best Practices on Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/best-practices)
+- **Further Reading**: [VM Best Practices on Azure](https://learn.microsoft.com/en-us/azure/virtual-machines/cost-optimization-best-practices)
 
 ---
 
