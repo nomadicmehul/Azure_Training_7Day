@@ -1,4 +1,4 @@
-# Azure 7-Day Training Guide
+# Azure DevOps 7-Day Training Guide
 
 Welcome to the **Azure 7-Day Training Guide**! This repository contains comprehensive notes, diagrams, and examples for each day of the training, covering the key concepts of Azure cloud computing, virtual machines, networking, storage, containers, DevOps, security, backup, and monitoring.
 
