@@ -59,4 +59,4 @@ This training guide is designed to help you get hands-on experience with various
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/nomadicmehul/Azure_Training_7
+   git clone https://github.com/nomadicmehul/Azure_Training_7Day
