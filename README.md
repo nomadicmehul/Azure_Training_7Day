@@ -12,13 +12,13 @@ Each day has its own folder with detailed notes, demos, and resources.
 
 ## Table of Contents
 
-- [Day 1: Cloud Computing Basics & Azure Overview](./Day1_CloudComputing_AzureOverview/Notes.md)
-- [Day 2: Virtual Machines in Azure](./Day2_VirtualMachines/Notes.md)
-- [Day 3: Networking in Azure](./Day3_Networking/Notes.md)
-- [Day 4: Load Balancing, Storage & App Services](./Day4_LoadBalancing_Storage/Notes.md)
-- [Day 5: Git & Containers](./Day5_Git_Containers/Notes.md)
-- [Day 6: Azure DevOps Pipelines & Jenkins](./Day6_DevOps_Jenkins/Notes.md)
-- [Day 7: Cloud Security, Backup, and Monitoring](./Day7_CloudSecurity_Backup_Monitoring/Notes.md)
+- [Day 1: Cloud Computing Basics & Azure Overview](./Day1_CloudComputing_AzureOverview)
+- [Day 2: Virtual Machines in Azure](./Day2_VirtualMachines)
+- [Day 3: Networking in Azure](./Day3_Networking/)
+- [Day 4: Load Balancing, Storage & App Services](./Day4_LoadBalancing_Storage/)
+- [Day 5: Git & Containers](./Day5_Git_Containers/)
+- [Day 6: Azure DevOps Pipelines & Jenkins](./Day6_DevOps_Jenkins/)
+- [Day 7: Cloud Security, Backup, and Monitoring](./Day7_CloudSecurity_Backup_Monitoring/)
 
 ---
 
