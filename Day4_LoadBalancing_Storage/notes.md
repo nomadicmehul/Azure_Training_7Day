@@ -16,6 +16,9 @@
 - **Diagram**: 
   Azure Load Balancer Overview
 
+  ![image](https://github.com/user-attachments/assets/8944dd3e-2196-43c5-84ea-9266c32761ee)
+
+
 ---
 
 ### 1.2 Azure Application Gateway
@@ -32,6 +35,9 @@
 
 - **Diagram**:
   Azure Application Gateway
+
+  ![image](https://github.com/user-attachments/assets/c17d1812-00c4-44ed-bf88-7c14635347ed)
+
 
 ---
 
