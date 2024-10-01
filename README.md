@@ -59,7 +59,7 @@ This training guide is designed to help you get hands-on experience with various
 
 Don't forget to check out project "[CloudCaptain](https://github.com/nomadicmehul/CloudCaptain)" and get all things cloud-related!  
 
-We have gathered an extensive collection of resources covering Cloud, DevOps, and DevSecOps in our repository, [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain). It serves as a one-stop-shop for all your learning needs in these domains. 
+We have gathered an extensive collection of resources covering Cloud, DevOps, and DevSecOps in this repository, [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain). It serves as a one-stop-shop for all your learning needs in these domains. 
 
 Explore the repository at [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) to access a wealth of valuable content. Whether you're a beginner or an experienced professional, you'll find resources tailored to your needs.
 
