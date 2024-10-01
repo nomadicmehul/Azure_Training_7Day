@@ -31,7 +31,7 @@ The following steps will guide you through setting up Jenkins on an Azure VM and
    - **Resource Group**: Create a new resource group or select an existing one.
    - **VM Name**: Give your VM a name (e.g., `Jenkins-VM`).
    - **Region**: Choose a region close to you or your audience.
-   - **Image**: Select **Ubuntu Server 20.04 LTS** (for Linux).
+   - **Image**: Select **Ubuntu Server 22.04 LTS** (for Linux).
    - **Size**: Choose a size based on your needs (e.g., `Standard_B1ms` should be sufficient for Jenkins).
 
 3. **Administrator Account**:
