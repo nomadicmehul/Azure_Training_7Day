@@ -1,4 +1,4 @@
-Sure! Below is the updated step-by-step plan using **Ubuntu Server 22.04 LTS** on Azure Virtual Machine (VM) for setting up **Jenkins** integration with **GitHub**. 
+Below is the updated step-by-step plan using **Ubuntu Server 22.04 LTS** on Azure Virtual Machine (VM) for setting up **Jenkins** integration with **GitHub**. 
 
 # Jenkins Integration with GitHub on Azure VM
 
@@ -206,27 +206,6 @@ You should see Java 11 installed.
 1. Push a new commit to your GitHub repository.
 
 2. Jenkins should trigger a build automatically.
-
----
-
-## Optional: SSL Setup with Let’s Encrypt (For HTTPS)
-
-1. Install Nginx as a reverse proxy:
-
-   ```bash
-   sudo apt install nginx
-   ```
-
-2. Configure Nginx to forward requests from port 80 to port 8080.
-
-3. Install Certbot and obtain an SSL certificate:
-
-   ```bash
-   sudo apt install certbot python3-certbot-nginx
-   sudo certbot --nginx
-   ```
-
-4. Configure Nginx to use HTTPS and forward requests to Jenkins.
 
 ---
 
