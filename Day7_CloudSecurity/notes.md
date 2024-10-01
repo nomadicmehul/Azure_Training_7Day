@@ -16,6 +16,7 @@
 
 - **Diagram**: 
   Shared Responsibility Model
+  ![image](https://github.com/user-attachments/assets/cd216b72-5470-4235-b387-cfbf7c1e8200)
 
 ---
 
@@ -32,6 +33,8 @@
 
 - **Diagram**: 
   Azure Backup Services
+  ![image](https://github.com/user-attachments/assets/7b27f3ee-cc85-472e-99dc-d924d14f65a1)
+
 
 ---
 
@@ -47,6 +50,7 @@
 
 - **Diagram**: 
   Azure Site Recovery
+  ![image](https://github.com/user-attachments/assets/b7e7f6d6-bcab-4413-b4e1-6a2dcf0f7254)
 
 ---
 
@@ -61,6 +65,9 @@
 
 - **Diagram**: 
   Azure Monitor Overview
+  ![image](https://github.com/user-attachments/assets/85af9b28-e35b-4a29-b774-31ce5db7e2c1)
+
+![image](https://github.com/user-attachments/assets/4eaccd1a-867c-47bf-881a-2f977ab450e9)
 
 ---
 
@@ -76,6 +83,7 @@
 
 - **Diagram**: 
   Application Insights
+  ![image](https://github.com/user-attachments/assets/7b2318e0-40f1-4ddc-8423-c5e650735264)
 
 ---
 
@@ -91,6 +99,7 @@
 
 - **Diagram**: 
   Cost Optimization Tips
+  ![image](https://github.com/user-attachments/assets/f740ce21-fc27-4916-9270-760c789903a0)
 
 ---
 
