@@ -51,6 +51,8 @@
 
 - **Diagram**: 
   Azure Pipeline Setup
+  ![image](https://github.com/user-attachments/assets/e20e2ef4-2cf1-411e-94d1-b8af7900cbb8)
+
 
 ---
 
@@ -65,6 +67,8 @@
 
 - **Diagram**: 
   Jenkins Overview
+  ![image](https://github.com/user-attachments/assets/dea1c1cf-a25f-4e01-930e-20b07053b8a8)
+
 
 ---
 
@@ -83,6 +87,8 @@
 
 - **Diagram**: 
   Jenkins Pipeline
+    ![image](https://github.com/user-attachments/assets/a2171ed9-167a-478f-aaaa-392eaf67e88d)
+  
 ---
 
 ### 2.3 Jenkins Integration with Git/GitHub
@@ -97,6 +103,7 @@
 
 - **Diagram**: 
   Jenkins Git Integration
+  ![image](https://github.com/user-attachments/assets/44e7983e-441c-4205-93f9-2a68aab1ac2d)
 
 ---
 
@@ -108,6 +115,8 @@
 
 - **Diagram**: 
   Jenkins Pipeline Demo
+  ![image](https://github.com/user-attachments/assets/a2171ed9-167a-478f-aaaa-392eaf67e88d)
+
 
 ---
 
