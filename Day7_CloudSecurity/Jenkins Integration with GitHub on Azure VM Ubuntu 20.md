@@ -1,12 +1,10 @@
-This plan will walk through provisioning an Azure VM, installing Jenkins, and integrating it with GitHub to trigger automated builds.
-
----
+Below is the updated step-by-step plan using **Ubuntu Server 20.04 LTS** on Azure Virtual Machine (VM) for setting up **Jenkins** integration with **GitHub**. 
 
 # Jenkins Integration with GitHub on Azure VM
 
 ## Overview
 
-The following steps will guide you through setting up Jenkins on an Azure VM and integrating it with GitHub. The main stages include:
+This guide will walk through setting up Jenkins on an **Azure VM running Ubuntu Server 20.04 LTS** and integrating it with **GitHub** to trigger automated builds. You will:
 
 1. Provisioning an Azure Virtual Machine (VM).
 2. Installing Jenkins on the VM.
