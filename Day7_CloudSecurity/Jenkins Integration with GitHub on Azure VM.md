@@ -93,21 +93,31 @@ You should see Java 11 installed.
    sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
    ```
 
-2. Update your package list and install Jenkins:
+   OR
+
+   ```curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key | sudo tee \
+    /usr/share/keyrings/jenkins-keyring.asc > /dev/null
+
+   echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
+    https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
+    /etc/apt/sources.list.d/jenkins.list > /dev/null
+   ```
+
+3. Update your package list and install Jenkins:
 
    ```bash
    sudo apt update
    sudo apt install jenkins -y
    ```
 
-3. Start and enable the Jenkins service:
+4. Start and enable the Jenkins service:
 
    ```bash
    sudo systemctl start jenkins
    sudo systemctl enable jenkins
    ```
 
-4. Allow Jenkins through the firewall:
+5. Allow Jenkins through the firewall:
 
    ```bash
    sudo ufw allow 8080
